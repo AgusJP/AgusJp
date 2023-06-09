@@ -2,7 +2,9 @@
 
 ### 👨‍💻 Passionate Software Developer
 
-### I consider that I am an enthusiastic, assertive, self-taught person and always willing to provide help to those who need it, without any problem to work as a team. With a lot of desire to continue learning and apply my knowledge to solve day-to-day challenges.
+### Technician in Multiplatform Application Development and Web Development.
+
+### I'm an enthusiastic, assertive, self-taught person with good communication skills to work in a team. With a lot of desire to continue learning and apply my knowledge to solve day-to-day challenges.
 
 ### During these last years I have been learning and applying my knowledge in projects, both academic and personal. Among the technologies that I have used the most are *Html, Css, JavaScript, TypeScript, Angular, RxJS, React, Java, Node, Docker, AWS...*
 

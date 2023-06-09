@@ -1,6 +1,6 @@
 # Hi , I'm Agustín Jiménez Polonio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 👨‍💻 Passionate Software web developer 
+### 👨‍💻 Passionate Software Developer
 
 ### I consider that I am an enthusiastic, assertive, self-taught person and always willing to provide help to those who need it, without any problem to work as a team. With a lot of desire to continue learning and apply my knowledge to solve day-to-day challenges.
 

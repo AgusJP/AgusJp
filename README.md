@@ -1,12 +1,10 @@
-# Hi , I'm Agustín Jiménez Polonio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Agustín Jiménez Polonio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 👨‍💻 Passionate Software Developer
+### Desarrollador Web Full-Stack 👨‍💻  con conocimientos en Angular y React desarrollando interfaces de usuario flexibles y eficientes en el Frontend y la creación de servicios usando Java (Spring Boot) y Node en el backend, lo cual incluye la implementación de lógica de negocio, la gestión de bases de datos (MySQL, PostgreSQL) y la integración de servicios web.
 
-### Technician in Multiplatform Application Development and Web Development.
+### Familiarizado con los principios de Agile, como la entrega iterativa, la colaboración estrecha con los clientes y la adaptación continua a los cambios, todos ellos trabajados en proyectos académicos, llegando a ser Scrum Master para un proyecto gestionando un equipo de 3 personas.
 
-### I'm an enthusiastic, assertive, self-taught person with good communication skills to work in a team. With a lot of desire to continue learning and apply my knowledge to solve day-to-day challenges.
-
-### During these last years I have been learning and applying my knowledge in projects, both academic and personal. Among the technologies that I have used the most are *Html, Css, JavaScript, TypeScript, Angular, RxJS, React, Java, Node, Docker, AWS...*
+### Destaco mi capacidad para aprender rápidamente nuevas tecnologías y adaptarme a entornos de trabajo cambiantes. Con muchas ganas de seguir aprendiendo y aplicar mis conocimientos para resolver los retos del día a día.
 
 <br>
 

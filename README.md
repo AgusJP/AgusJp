@@ -1,5 +1,7 @@
 # Agustín Jiménez Polonio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+## Desarrollador web Full-Stack
+
 Desarrollador Web Full-Stack 👨‍💻  con conocimientos en Angular y React desarrollando interfaces de usuario flexibles y eficientes en el Frontend y la creación de servicios usando Java (Spring Boot) y Node en el backend, lo cual incluye la implementación de lógica de negocio, la gestión de bases de datos (MySQL, PostgreSQL) y la integración de servicios web.
 
 Familiarizado con los principios de Agile, como la entrega iterativa, la colaboración estrecha con los clientes y la adaptación continua a los cambios, todos ellos trabajados en proyectos académicos, llegando a ser Scrum Master para un proyecto gestionando un equipo de 3 personas.

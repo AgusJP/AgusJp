@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Agustin Jiménez Polonio and I'm from Spain. <br><br>I'm a Junior FullStack Developer with knowledge in Angular and React, developing user interfaces, as well as in Java and Node for the creation of web services, including the implementation of business logic and database management. <br><br>Familiar with Agile principles, becoming a Scrum Master managing a team of 3 people for an academic project. Focused on writing clean and scalable code, quick learning of new technologies, and enthusiastic about solving new challenges.</p>
+<p align="left">My name is Agustin Jiménez Polonio and I'm from Spain. <br><br>I'm a Junior FullStack Developer with knowledge in Angular and React, developing user interfaces, as well as in Java and Node for the creation of web services, including the implementation of business logic and database management. <br><br>Familiar with Agile principles, focused on writing clean and scalable code, quick learning of new technologies, and enthusiastic about solving new challenges.</p>
 
 ###
 

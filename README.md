@@ -119,7 +119,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/agust%C3%ADn-jim%C3%A9nez-polonio-5403a51b2/" target="_blank">
+  <a href="https://www.linkedin.com/in/agustin-jimenez-polonio/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:agustinjimenezpolonio@gmail.com" target="_blank">

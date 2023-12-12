@@ -1,20 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">¡Hola! 👋</h1>
 
 ###
 
-<p align="left">My name is Agustin Jiménez Polonio and I'm from Spain. <br><br>I'm a Junior FullStack Developer with knowledge in Angular and React, developing user interfaces, as well as in Java and Node for the creation of web services, including the implementation of business logic and database management. <br><br>Familiar with Agile principles, focused on writing clean and scalable code, quick learning of new technologies, and enthusiastic about solving new challenges.</p>
+<p align="left"> Soy Agustín, desarrollador web FullStack con experiencia en 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 y 𝗥𝗲𝗮𝗰𝘁 desarrollando interfaces de usuario y creación de servicios web con 𝗝𝗮𝘃𝗮 y 𝗡𝗼𝗱𝗲. Familiarizado con los principios Agile, enfocado en escribir código limpio y escalable, rápido aprendizaje de nuevas tecnologías, y con entusiasmo para resolver nuevos desafíos. 
+
+Como pasatiempos me encanta echar un vistazo a las novedades y curiosidades más recientes del sector tecnológico, con tal de ampliar mis conocimientos y estar en constante evolución.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2000<br>📚 I'm currently learning about micro frontends and hexagonal architecture. <br>🎯 Goals: build a long career within the technology sector, write more scalable and maintainable code, learn about different types of software architectures and algorithms, implement solutions that help people and never stop learning.</p>
+<p align="left">✨ Creando bugs desde el 2000<br>📚 Actualmente estoy aprendiendo sobre micro frontends and arquitectura hexagonal. <br>🎯 Metas: hacerme un hueco dentro del sector tecnológico, escribir código limpio y escalable, aprender diferentes tipos de arquitectura de software y algoritmos, implementar soluciones que ayuden a resolver los problemas de la gente y nunca parar de aprender.</p>
 
 ###
 
-<h2 align="left">🛠️ I code with</h2>
+<h2 align="left">🛠️ Tecnologías</h2>
 
 ###
 
@@ -56,7 +58,7 @@
 
 ###
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Bases de datos</h3>
 
 ###
 
@@ -86,7 +88,7 @@
 
 ###
 
-<h3 align="left">Deployment & Tools</h3>
+<h3 align="left">Herramientas de despliegue</h3>
 
 ###
 
@@ -104,7 +106,7 @@
 
 ###
 
-<h3 align="left">Design</h3>
+<h3 align="left">Diseño</h3>
 
 ###
 
@@ -114,7 +116,7 @@
 
 ###
 
-<h2 align="left">🙋‍♂️ Lets Connect</h2>
+<h2 align="left">🙋‍♂️ Conectemos!</h2>
 
 ###
 
@@ -129,7 +131,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Estadísticas</h2>
 
 ###
 

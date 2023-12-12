@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Soy Agustín, desarrollador web FullStack con experiencia en 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 y 𝗥𝗲𝗮𝗰𝘁 desarrollando interfaces de usuario y creación de servicios web con 𝗝𝗮𝘃𝗮 y 𝗡𝗼𝗱𝗲. Familiarizado con los principios Agile, enfocado en escribir código limpio y escalable, rápido aprendizaje de nuevas tecnologías, y con entusiasmo para resolver nuevos desafíos. 
+<p align="left"> Soy Agustín, desarrollador web FullStack con experiencia en 𝗔𝗻𝗴𝘂𝗹𝗮𝗿 y 𝗥𝗲𝗮𝗰𝘁 desarrollando interfaces de usuario y creación de servicios web con 𝗝𝗮𝘃𝗮 y Spring Boot. Familiarizado con los principios Agile, enfocado en escribir código limpio y escalable, rápido aprendizaje de nuevas tecnologías, y con entusiasmo para resolver nuevos desafíos. 
 
 Como pasatiempos me encanta echar un vistazo a las novedades y curiosidades más recientes del sector tecnológico, con tal de ampliar mis conocimientos y estar en constante evolución.</p>
 

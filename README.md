@@ -12,7 +12,7 @@ Como pasatiempos me encanta echar un vistazo a las novedades y curiosidades más
 
 ###
 
-<p align="left">✨ Creando bugs desde el 2000<br>📚 Actualmente estoy aprendiendo sobre micro frontends and arquitectura hexagonal. <br>🎯 Metas: hacerme un hueco dentro del sector tecnológico, escribir código limpio y escalable, aprender diferentes tipos de arquitectura de software y algoritmos, implementar soluciones que ayuden a resolver los problemas de la gente y nunca parar de aprender.</p>
+<p align="left">✨ Creando bugs desde el 2000<br>📚 Actualmente estoy aprendiendo sobre micro frontends y arquitectura hexagonal. <br>🎯 Metas: hacerme un hueco dentro del sector tecnológico, escribir código limpio y escalable, aprender diferentes tipos de arquitectura de software y algoritmos, implementar soluciones que ayuden a resolver los problemas de la gente y nunca parar de aprender.</p>
 
 ###
 
